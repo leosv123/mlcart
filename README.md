@@ -11,6 +11,15 @@ Machine Learning Package for Property Prediction of Chemical Compounds.
 7. Random Forest
 
 
-# Implemented Cross Validation
+### Implemented Cross Validation
 1. Normal outer CV
 2. NestedCV
+
+
+### Explainability
+1. Coefficients
+2. Feature Importances
+3. Shap
+
+### Uncertainty
+1. Bootstrapping
