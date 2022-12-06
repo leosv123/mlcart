@@ -1,0 +1,4 @@
+config:
+    modelname: "Logistic Regression"
+    filepath: "/Users/lingrajsvannur/Desktop/DrugDiscovery/propertyprediction/mordred1826_bbb_martins.tab.csv"
+    targetcol: "property"

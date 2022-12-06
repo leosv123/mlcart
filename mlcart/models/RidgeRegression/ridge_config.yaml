@@ -1,0 +1,4 @@
+config:
+    modelname: "Ridge Regression"
+    filepath: "/Users/lingrajsvannur/Desktop/DrugDiscovery/propertyprediction/mordred1826_caco2_wang.tab.csv"
+    targetcol: "property"
