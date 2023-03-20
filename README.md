@@ -9,6 +9,9 @@ Machine Learning Package for Property Prediction of Chemical Compounds.
 5. Lasso Regression
 6. Decision Trees
 7. Random Forest
+8. XGBoost
+9. LightGBM
+10. Optuna
 
 
 ### Implemented Cross Validation
