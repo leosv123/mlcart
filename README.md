@@ -1,6 +1,6 @@
 # mlcart
 
-Machine Learning Package for Predictive Analytics.
+Machine Learning Package for Predictive Analytics
 
 1. Data Validation
 2. Linear Regression
