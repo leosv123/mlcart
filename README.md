@@ -2,6 +2,15 @@
 
 Machine Learning Package that does automation for solving Predictive Analytics Problems
 
+
+Some Usage Results:
+
+![image](https://user-images.githubusercontent.com/37137862/229930603-3165ce0c-26a9-4bfe-8013-04c41d1fc49a.png)
+![image](https://user-images.githubusercontent.com/37137862/229930776-36700bee-b33c-442c-a020-cd7944677f96.png)
+
+
+
+
 Installation
 
 pip install mlcart
@@ -31,10 +40,7 @@ pip install mlcart
 ### Uncertainty
 1. Bootstrapping
 
-Some Usage Results:
 
-![image](https://user-images.githubusercontent.com/37137862/229930603-3165ce0c-26a9-4bfe-8013-04c41d1fc49a.png)
-![image](https://user-images.githubusercontent.com/37137862/229930776-36700bee-b33c-442c-a020-cd7944677f96.png)
 
 
 
