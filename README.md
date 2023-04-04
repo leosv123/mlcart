@@ -1,8 +1,6 @@
 # mlcart
 
-Molecules Property
-
-Machine Learning Package for Predictive Analytics
+Machine Learning Package that does automation for solving Predictive Analytics Problems
 
 1. Data Validation
 2. Linear Regression
@@ -28,3 +26,5 @@ Machine Learning Package for Predictive Analytics
 
 ### Uncertainty
 1. Bootstrapping
+
+Molecules Property Prediction
